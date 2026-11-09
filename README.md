@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Bhupesh Kanire!
 
-### 💻 System Administrator | Aspiring DevOps Engineer | Cloud Enthusiast
+### 💻 System Administrator | Aspiring DevOps Engineer | Cloud Engineer
 
 Welcome to my GitHub profile! 🚀
 
